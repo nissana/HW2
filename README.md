@@ -5,7 +5,7 @@ Week 2 Project for the [CodePath](http://www.codepath.com/) course [iOS Bootcamp
 
 Use Xcode to implement the Carousel app from the signed out state to the basic signed in state. This exercise leverages views, view properties, and events to create a high fidelity prototype.
 
-Time spent: 10 hours spent in total
+Time spent: 10 hours total
 
 Completed user stories:
  * [x] Static photo tiles on the initial screen
