@@ -1,13 +1,11 @@
 # HW2
 ### Carousel
 
-Week 2 Project for the [CodePath](http://www.codepath.com/) course [iOS Bootcamp for designers] (http://codepath.com/iosfordesigners).
-
-Use Xcode to implement the Carousel app from the signed out state to the basic signed in state. This exercise leverages views, view properties, and events to create a high fidelity prototype.
+Week 2 Project for the [CodePath](http://www.codepath.com/) course [iOS Bootcamp for designers] (http://codepath.com/iosfordesigners). Use Xcode to implement the Carousel app from the signed out state to the basic signed in state. This exercise leverages views, view properties, and events to create a high fidelity prototype.
 
 Time spent: 10 hours total
 
-Completed user stories:
+#####Completed user stories:
  * [x] Static photo tiles on the initial screen
 + Optional: Photo tiles move with scrolling
  * [x] Sign In
@@ -29,7 +27,7 @@ User can tap on the profile image to see the settings view (modal from below).
 User can dismiss the settings screen.
 User can log out
 
-Walkthrough of all user stories:
+#####GIF walkthrough:
 
 ![hw2](https://cloud.githubusercontent.com/assets/10460611/6205428/9503fde2-b522-11e4-8a9e-c844208e1941.gif)
 
