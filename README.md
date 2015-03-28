@@ -1,4 +1,4 @@
-# HW2
+# Project 2
 ### Carousel
 
 Week 2 Project for the [CodePath](http://www.codepath.com/) course [iOS Bootcamp for designers] (http://codepath.com/iosfordesigners). Use Xcode to implement the Carousel app from the signed out state to the basic signed in state. This exercise leverages views, view properties, and events to create a high fidelity prototype.
